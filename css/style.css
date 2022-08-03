@@ -4,3 +4,6 @@
 .ai-sony-logo{
     max-height: 30px;
 }
+.ai-see-border{
+    border: 2px dashed red;
+}
