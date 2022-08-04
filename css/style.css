@@ -37,3 +37,10 @@
     background-size: cover;
     background-position: top;
 }
+.ai-card-sez2 {
+    border-bottom: 3px solid transparent;
+}
+.ai-card-sez2:hover {
+    cursor: pointer; 
+    border-bottom: 3px solid #2586d5;
+}
