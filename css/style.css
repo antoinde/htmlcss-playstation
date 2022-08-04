@@ -9,6 +9,9 @@
 .ai-bg-color-blacklight{
     background-color: #1f1f1f;
 }
+.ai-bg-color-blacklight-button{
+    background-color: #363636 !important;
+}
 .ai-bg-color-lightgrey{
     background-color: #bebcbb;
 }
