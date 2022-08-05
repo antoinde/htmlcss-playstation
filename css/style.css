@@ -44,3 +44,8 @@
     cursor: pointer; 
     border-bottom: 3px solid #2586d5;
 }
+.sez3-img{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: top;
+}
