@@ -15,6 +15,13 @@
 .ai-bg-color-lightgrey{
     background-color: #bebcbb;
 }
+.ai-bg-color-softgrey{
+    background-color: #d9dadc;
+    border-color: #bebcbb;
+}
+.ai-bg-color-softgrey:hover{
+    border-color: var(--ps-blue);
+}
 .ai-pt-6{
     padding-top: 6.5rem;
 }
@@ -23,6 +30,7 @@
     background-color: #fd7e14;
     border-color: #fd7e14;
 }
+
 
 /* content */
 
