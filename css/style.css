@@ -22,6 +22,9 @@
 .ai-bg-color-blue{
     background-color: #161c3b;
 }
+.ai-bg-color-footer{
+    background-color: #00439c;
+}
 .ai-bg-color-softgrey:hover{
     border-color: var(--ps-blue);
 }
@@ -62,4 +65,19 @@
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
     background-position: top;
+}
+footer select{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+footer .play-logo{
+    color: #fff;
+}
+footer li{
+    list-style-type: none;
+}
+footer li a{
+    text-decoration: none;
+    color:#fff;
 }
